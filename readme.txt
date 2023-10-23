@@ -1,6 +1,6 @@
 What this project does:
 Implemented a simple web registration system for EE/CS departments, using both UDP and TCP and created a credential server to verify user's logging informations.
-It is also allows user enter more than one course as query.
+It is also allows user to enter more than one course as query.
 
 Code files and their functionalities:
 client.cpp: Client's interface that is used for login and get course's information.
