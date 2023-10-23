@@ -1,0 +1,3 @@
+EE458,4,Aie Boaba,Tue;Thu,Advanced Computer Networks
+EE385,3,Somil Bsils,Mon;Wed,Linear Control System
+EE569,4,Jay Chou,Mon;Wed,Multimedia Data Compression

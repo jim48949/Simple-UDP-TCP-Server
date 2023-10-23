@@ -1,0 +1,3 @@
+CS123,5,William Bob,Mon;Wed,Operating Systems
+CS234,4,Scott Don,Tue;Fri,Advanced Mobile Devices and Game Consoles
+CS285,4,Chris Newsman,Fri,Security Systems
